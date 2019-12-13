@@ -1,0 +1,15 @@
+# editor setting
+.vscode
+.settings
+.idea
+.md
+
+
+# jetbrain history
+.history
+
+# log
+*.log
+
+# build
+build/*
